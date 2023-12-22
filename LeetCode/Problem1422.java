@@ -1,8 +1,4 @@
 package LeetCode;
-
-/**
- * 1422
- */
 public class Problem1422 {
     public static void main(String[] args) {
         int result=maxScore("1001001");
