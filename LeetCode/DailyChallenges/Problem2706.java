@@ -29,7 +29,7 @@ public static void main(String[] args) {
             int cost = prices[i]+prices[i+1];
             sum_price[i]=money-cost;
         }
-for ( int i=0;i<sum_price.length;i++)
+for ( int i=0;i<sum_price.length;)
 {
     if (sum_price[0]<0)
            return money;
