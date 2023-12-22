@@ -1,4 +1,5 @@
-package LeetCode;
+package LeetCode.DailyChallenges; 
+
 public class Problem1422 {
     public static void main(String[] args) {
         int result=maxScore("1001001");
