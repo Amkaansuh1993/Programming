@@ -3,7 +3,7 @@ package LeetCode.DailyChallenges;
 public class Problem1496 {
 
     public static void main(String[] args) {
-        Boolean Result = isPathCrossing("SS");
+        Boolean Result = isPathCrossing("SN");
         System.out.println(Result);
     }
 
