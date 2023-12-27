@@ -1,0 +1,1 @@
+select AA.name as customers from ( select C.id,C.name,O.customerid from Customers C left join Orders O on C.id = O.customerId) AA where customerid is null order by AA.name
