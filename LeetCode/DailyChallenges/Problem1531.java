@@ -1,6 +1,5 @@
 package LeetCode.DailyChallenges;
 //TRY THIS
-import java.util.Arrays;
 
 class Problem1531{
 public static void main(String[] args) {
