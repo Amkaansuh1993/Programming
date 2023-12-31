@@ -1,6 +1,6 @@
 Package LeetCode.DailyChallenges;
 
-class Problem1624 {
+public class Problem1624 {
 
   public static void main(String[] args) {
 		int Res = maxLengthBetweenEqualCharacters("mgntdygtxrvxjnwksqhxuxtrv");
