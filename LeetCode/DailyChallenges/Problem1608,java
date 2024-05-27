@@ -3,6 +3,15 @@ package LeetCode.DailyChallenges;
 public class Problem1608 {
     public static void main(String[] args)
     {
-        System.out.println("Hello");
+        int[] nums=[3,5];
+        int Res = specialArray(nums);
+        System.out.println(Res);
+    }
+
+    public static int specialArray(int[] nums)
+    {
+        int Res = -1;
+        System.out.println(nums.length);
+        return res;
     }
 }

@@ -10,8 +10,6 @@
  */
 package LeetCode.DailyChallenges;
 
-import java.util.Iterator;
-import java.util.LinkedList;
 
 public class Problem2 {
 
