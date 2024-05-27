@@ -3,6 +3,6 @@ package LeetCode.DailyChallenges;
 public class Problem1608 {
     public static void main(String[] args)
     {
-        System.out.println("Hello")
-;    }
+        System.out.println("Hello");
+    }
 }

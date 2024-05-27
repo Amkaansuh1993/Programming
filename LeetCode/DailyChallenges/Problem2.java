@@ -24,22 +24,5 @@ public class Problem2 {
     }   
     public static void main(String[] args) {
 
-        LinkedList<ListNode> a=new LinkedList<ListNode>();
-        LinkedList<ListNode> b=new LinkedList<ListNode>();
-        
-        a = 
-
-        LinkedList<ListNode> Result=addTwoNumbers(null, null);
-    
     }
-
-    public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        node p=head;
-
-        System.out.println(l1);
-        return Result;
-    }
-
-        
-
 }

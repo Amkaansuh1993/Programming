@@ -6,7 +6,7 @@ public class Problem1624 {
 		int Res = maxLengthBetweenEqualCharacters("mgntdygtxrvxjnwksqhxuxtrv");
 		System.out.println(Res);
 	}
-    public int maxLengthBetweenEqualCharacters(String s) {
+    public static int maxLengthBetweenEqualCharacters(String s) {
         char[] c=s.toCharArray();
         int count=-1,temp=-1,tempc=-1;
         for ( int  i=0;i<c.length-1;i++)
