@@ -1,4 +1,4 @@
-Package LeetCode.DailyChallenges;
+package LeetCode.DailyChallenges;
 
 public class Problem1624 {
 
