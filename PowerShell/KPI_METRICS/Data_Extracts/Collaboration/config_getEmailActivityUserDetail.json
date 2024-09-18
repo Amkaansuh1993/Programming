@@ -1,0 +1,44 @@
+{             
+               "timestamp": {
+                              "column":"Report Refresh Date",
+                              "source_format":"yyyy-MM-dd"
+                              },
+               "dimension":"user",
+               "dimension_id": ["User Principal Name"],
+               "metrics": [
+                              {"metric_name": "mail_sent_count",
+                              "column":"Send Count",
+                              "metric_type":"int"},
+                              {"metric_name": "mail_receive_count", "column":"Receive Count",
+                               "metric_type":"int"},
+                              {"metric_name": "mail_read_count", "column":"Read Count",
+                               "metric_type":"int"}
+               ],
+               "metadata": [
+                              {
+                                             "attribute_value": "M365",
+                                             "attribute_name": "system_id",
+                                             "dimension": "user",
+                                             "dimension_id": [
+                                                            "User Principal Name"
+                                             ]
+                              },
+                              {
+                                             "attribute_value": "M365 user",
+                                             "attribute_name": "user_type",
+                                             "dimension": "user",
+                                             "dimension_id": [
+                                                            "User Principal Name"
+                                             ]
+                              },
+                              {
+                                             "attribute_value": "api",
+                                             "attribute_name": "id_origin",
+                                             "dimension": "user",
+                                             "dimension_id": [
+                                                            "User Principal Name"
+                                             ]
+                              }
+               ],
+               "delimiter":","
+}

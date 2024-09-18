@@ -1,0 +1,45 @@
+{
+    "timestamp": {
+                   "column":"Report Refresh Date",
+                   "source_format":"yyyy-MM-dd"
+                   },
+    "dimension":"user",
+    "dimension_id": ["User Principal Name"],
+    "metrics": [                       
+                   {
+                                  "metric_name": "is_office_active_user",
+                                  "column": "User Principal Name",
+                                  "metric_type":"string", 
+                                  "transformation_rule": "contains_string"
+                   }
+   
+    ],
+    "metadata": [
+                   {
+                                  "attribute_value": "M365",
+                                  "attribute_name": "system_id",
+                                  "dimension": "user",
+                                  "dimension_id": [
+                                                 "User Principal Name"
+                                  ]
+                   },
+                   {
+                                  "attribute_value": "M365 user",
+                                  "attribute_name": "user_type",
+                                  "dimension": "user",
+                                  "dimension_id": [
+                                                 "User Principal Name"
+                                  ]
+                   },
+                   {
+                                  "attribute_value": "api",
+                                  "attribute_name": "id_origin",
+                                  "dimension": "user",
+                                  "dimension_id": [
+                                                 "User Principal Name"
+                                  ]
+                   }
+    ],
+    "delimiter":",",
+    "firstline":0
+}

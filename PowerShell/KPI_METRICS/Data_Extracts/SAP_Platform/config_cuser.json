@@ -1,0 +1,17 @@
+{
+    "timestamp" : {
+        "column":"CALDAY",
+        "source_format" :"yyyyMMdd"
+    },
+    "dimension":"System",
+    "dimension_id":["SMD_LSID", "SMD_GRDA" , "SMD_TIKF"],
+    "metrics":[
+        {
+            "metric_name":"Concurrent Users",
+            "column":"SMD_MAX",
+            "metric_type":"Float"
+        }
+    ],
+    "delimiter":",",
+    "firstline":0
+}
