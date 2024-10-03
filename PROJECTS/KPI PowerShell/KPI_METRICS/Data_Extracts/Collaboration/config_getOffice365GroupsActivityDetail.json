@@ -1,0 +1,57 @@
+{             
+               "timestamp": {
+                              "column":"Report Refresh Date",
+                              "source_format":"yyyy-MM-dd"
+                              },
+               "dimension":"instance",
+               "dimension_id": ["Group Display Name"],
+               "metrics": [                       
+                              {"metric_name": "member count",
+                             "column":"Member Count",
+                             "metric_type":"int"},
+                              {"metric_name": "external members",
+                               "column":"External Member Count",
+                               "metric_type":"int"},
+                              {"metric_name": "exchange mailbox total items",
+                               "column":"Exchange Mailbox Total Item Count",
+                               "metric_type":"int"},
+                              {"metric_name": "exchange mailbox storage used",
+                              "column":"Exchange Mailbox Storage Used (Byte)",
+                               "metric_type":"int"},
+                              {"metric_name": "sharepoint file count",
+                              "column":"SharePoint Total File Count",
+                              "metric_type":"int"},
+                              {"metric_name": "sharepont site storage used",
+                              "column":"SharePoint Site Storage Used (Byte)",
+                              "metric_type":"float"}
+               ],
+               "metadata": [
+                              {
+                                             "attribute_value": [
+                                                            "Group Type"
+                                             ],
+                                             "attribute_name": "instance_subtype",
+                                             "dimension": "instance",
+                                             "dimension_id": [
+                                                            "Group Display Name"
+                                             ]
+                              },
+                              {
+                                             "attribute_value": "M365",
+                                             "attribute_name": "system_id",
+                                             "dimension": "instance",
+                                             "dimension_id": [
+                                                            "Group Display Name"
+                                             ]
+                              },
+                              {
+                                             "attribute_value": "office365 group",
+                                             "attribute_name": "instance_type",
+                                             "dimension": "instance",
+                                             "dimension_id": [
+                                                            "Group Display Name"
+                                             ]
+                              }
+               ],
+               "delimiter":","
+}

@@ -1,0 +1,36 @@
+{
+    "timestamp": {
+                   "column": "Report Date",
+                   "source_format": "yyyy-MM-dd"
+    },
+    "dimension": "instance",
+    "dimension_id": ["one_drive", "Site Type"],
+    "metrics": [
+                   {
+                                  "metric_name": "storage used",
+                                  "column": "Storage Used (Byte)",
+                                  "metric_type": "float"
+                   }
+    ],
+    "metadata": [
+                   {
+                                  "attribute_value": "M365",
+                                  "attribute_name": "system_id",
+                                  "dimension": "instance",
+                                  "dimension_id": ["one_drive", "Site Type"]
+                   },
+                   {
+                                  "attribute_value": "onedrive site",
+                                  "attribute_name": "instance_type",
+                                  "dimension": "instance",
+                                  "dimension_id": ["one_drive", "Site Type"]
+                   },
+                   {
+                                  "attribute_value": ["Site Type"],
+                                  "attribute_name": "instance_subtype",
+                                  "dimension": "instance",
+                                  "dimension_id": ["one_drive", "Site Type"]
+                   }
+    ],
+    "delimiter": ","
+}
