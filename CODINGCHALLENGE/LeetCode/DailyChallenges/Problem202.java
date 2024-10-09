@@ -5,10 +5,12 @@ class Problem202 {
 public static void main(String[] args) {
     int n=19;
     boolean res=isHappy(n);
+    System.out.println(res);
 }
 
     public static boolean isHappy(int n) {
         int sum;
+        boolean res=false;
         if(n == 1)
             return true;
         else
@@ -22,7 +24,7 @@ public static void main(String[] args) {
             }
         } 
             if (sum != 1 )
-                boolean res = isHappy(sum);
+                 res = isHappy(sum);
 
         return res;
     }
