@@ -1,13 +1,16 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
 
 @Component({
   selector: 'app-root',
-  standalone: true,
-  imports: [RouterOutlet],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'first-app';
+  title = 'The title of App Component';
+
+  today = new Date();
+
+  imageUrl = "https://dotnethow.net/images/movies/movie-1.jpg"
+
+  price =10; 
 }
