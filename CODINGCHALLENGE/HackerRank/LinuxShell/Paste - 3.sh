@@ -1,1 +1,1 @@
-paste -s
+paste -d " " - - - 
