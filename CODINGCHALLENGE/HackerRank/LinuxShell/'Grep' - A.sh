@@ -1,0 +1,1 @@
+grep -iwe 'the' -iwe 'that' -iwe 'then' -iwe 'those'

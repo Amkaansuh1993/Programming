@@ -1,0 +1,1 @@
+awk -F " " '{if ( $4 == null ) print("Not all scores are available for " $1) }'
