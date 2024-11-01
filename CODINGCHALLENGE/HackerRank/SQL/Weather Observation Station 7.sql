@@ -1,0 +1,1 @@
+select DISTINCT CITY from STATION where LOWER(CITY) like '%a' or LOWER(CITY) like '%e' or LOWER(CITY) like '%i' or LOWER(CITY) like '%o' or LOWER(CITY) like '%u';
