@@ -1,0 +1,1 @@
+select DISTINCT CITY from STATION where not REGEXP_LIKE(LOWER(CITY), '^(a|e|i|o|u).*(a|e|i|o|u)$');
