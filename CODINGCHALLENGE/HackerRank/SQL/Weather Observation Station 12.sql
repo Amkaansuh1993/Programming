@@ -1,0 +1,1 @@
+select distinct CITY from STATION where  REGEXP_LIKE(LOWER(CITY),'^[^(a|e|i|o|u)].*[^(a|e|i|o|u)]$');
