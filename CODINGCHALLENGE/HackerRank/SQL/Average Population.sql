@@ -1,0 +1,1 @@
+select ROUND(SUM(POPULATION)/COUNT(ID)) from CITY;
