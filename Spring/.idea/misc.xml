@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/example4 - Primary Annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/example3 - Bean Naming/pom.xml" />
+        <option value="$PROJECT_DIR$/example2 - Duplicate Creation/pom.xml" />
+        <option value="$PROJECT_DIR$/example1 - Bean Creation/pom.xml" />
+        <option value="$PROJECT_DIR$/example5 - Component Annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/example6 - PostConstruct Annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/example7 - PreDestroy Annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/example8 - Add Bean Programmatically/pom.xml" />
+        <option value="$PROJECT_DIR$/example9 - Add Bean Using XML Configs/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="24" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
