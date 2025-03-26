@@ -3,6 +3,18 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/example1 - Bean Creation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example1 - Bean Creation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example10 - Wiring Bean using Method Call/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example10 - Wiring Bean using Method Call/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example10 - Wiring Bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example10 - Wiring Bean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example11 - Wiring Bean using Method Parameter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example11 - Wiring Bean using Method Parameter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example12 - Wiring Bean using Autowired Annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example12 - Wiring Bean using Autowired Annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example13 - Wiring Bean using Autowired on Setter method/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example13 - Wiring Bean using Autowired on Setter method/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example14 - Wiring Bean using Autowired on Constructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example14 - Wiring Bean using Autowired on Constructor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example2 - Duplicate Creation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example2 - Duplicate Creation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example3 - Bean Naming/src/main/java" charset="UTF-8" />

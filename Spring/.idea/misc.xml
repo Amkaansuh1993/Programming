@@ -13,6 +13,12 @@
         <option value="$PROJECT_DIR$/example7 - PreDestroy Annotation/pom.xml" />
         <option value="$PROJECT_DIR$/example8 - Add Bean Programmatically/pom.xml" />
         <option value="$PROJECT_DIR$/example9 - Add Bean Using XML Configs/pom.xml" />
+        <option value="$PROJECT_DIR$/example10 - Wiring Bean/pom.xml" />
+        <option value="$PROJECT_DIR$/example11 - Wiring Bean using Method Parameter/pom.xml" />
+        <option value="$PROJECT_DIR$/example10 - Wiring Bean using Method Call/pom.xml" />
+        <option value="$PROJECT_DIR$/example12 - Wiring Bean using Autowired Annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/example13 - Wiring Bean using Autowired on Setter method/pom.xml" />
+        <option value="$PROJECT_DIR$/example14 - Wiring Bean using Autowired on Constructor/pom.xml" />
       </list>
     </option>
   </component>
