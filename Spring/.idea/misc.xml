@@ -19,7 +19,15 @@
         <option value="$PROJECT_DIR$/example12 - Wiring Bean using Autowired Annotation/pom.xml" />
         <option value="$PROJECT_DIR$/example13 - Wiring Bean using Autowired on Setter method/pom.xml" />
         <option value="$PROJECT_DIR$/example14 - Wiring Bean using Autowired on Constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/example15 - Autowiring scenario 1/pom.xml" />
+        <option value="$PROJECT_DIR$/example15/pom.xml" />
+        <option value="$PROJECT_DIR$/Assignment/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/example15/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="24" project-jdk-type="JavaSDK">
