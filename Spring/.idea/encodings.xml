@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Assignment/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Assignment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Trying/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Trying/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example1 - Bean Creation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example1 - Bean Creation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example10 - Wiring Bean using Method Call/src/main/java" charset="UTF-8" />
@@ -21,8 +23,16 @@
     <file url="file://$PROJECT_DIR$/example14 - Wiring Bean using Autowired on Constructor/untitled/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example15 - Autowiring scenario 1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example15 - Autowiring scenario 1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example15 - Singleton Bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example15 - Singleton Bean/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example15/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example15/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example16 - Lazy Initialization/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example16 - Lazy Initialization/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example16 - Race Condition/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example16 - Race Condition/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example17 - Prototype Bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example17 - Prototype Bean/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example2 - Duplicate Creation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example2 - Duplicate Creation/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/example3 - Bean Naming/src/main/java" charset="UTF-8" />

@@ -22,10 +22,16 @@
         <option value="$PROJECT_DIR$/example15 - Autowiring scenario 1/pom.xml" />
         <option value="$PROJECT_DIR$/example15/pom.xml" />
         <option value="$PROJECT_DIR$/Assignment/pom.xml" />
+        <option value="$PROJECT_DIR$/Trying/pom.xml" />
+        <option value="$PROJECT_DIR$/example15 - Singleton Bean/pom.xml" />
+        <option value="$PROJECT_DIR$/example16 - Race Condition/pom.xml" />
+        <option value="$PROJECT_DIR$/example16 - Lazy Initialization/pom.xml" />
+        <option value="$PROJECT_DIR$/example17 - Prototype Bean/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/Trying/pom.xml" />
         <option value="$PROJECT_DIR$/example15/pom.xml" />
       </set>
     </option>
