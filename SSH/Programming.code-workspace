@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Pages"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.project.sourcePaths": [
+			"."
+		],
+		"java.project.referencedLibraries": [],
+		"java.dependency.syncWithFolderExplorer": true,
+		"java.debug.settings.onBuildFailureProceed": true,
+		"ansible.python.interpreterPath": "c:\\Users\\Admin\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe"
+	}
+}
