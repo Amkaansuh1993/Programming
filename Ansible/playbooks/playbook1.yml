@@ -1,7 +1,0 @@
----
-- name : Pinging Ansible Yaml
-  hosts : localhost
-  tasks : 
-    - name: ping test
-      ansible.builtin.ping:
-      
