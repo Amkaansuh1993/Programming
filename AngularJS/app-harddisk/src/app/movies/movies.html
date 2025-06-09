@@ -1,0 +1,9 @@
+<div class="container" style="max-width: 85%;" *ngIf="moviesList.length >0">
+<mat-card class="movie-card" *ngFor="let movie of moviesList" style="float: left;">
+    <mat-card-title> {{movie['moviename']}} </mat-card-title>
+    <mat-card-subtitle> {{movie['id']}} </mat-card-subtitle>
+</mat-card>
+</div>
+<div class="container" style="max-width: 85%;" *ngIf="moviesList.length <=0">
+    <p class="mat-body-1" style="color:grey">No Movies are Added!!</p>
+</div>

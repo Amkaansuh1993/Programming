@@ -1,0 +1,2 @@
+select * from (select CITY, LENGTH(CITY) from STATION order by LENGTH(CITY), CITY ASC) where ROWNUM =1;
+select * from (select CITY, LENGTH(CITY) from STATION order by LENGTH(CITY) DESC, CITY ASC) where ROWNUM =1;
