@@ -1,7 +1,4 @@
-package LeetCode.DailyChallenges;
-
-class Problem202 {
-
+public class Problem202 {
 public static void main(String[] args) {
     int n=19;
     boolean res=isHappy(n);

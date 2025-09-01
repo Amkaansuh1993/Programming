@@ -1,5 +1,3 @@
-package LeetCode.DailyChallenges;
-
 public class Problem13 {
     public static void main(String[] args) {
         String S="MCMXCIV";

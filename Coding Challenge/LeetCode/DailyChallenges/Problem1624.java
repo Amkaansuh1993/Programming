@@ -1,5 +1,3 @@
-package LeetCode.DailyChallenges;
-
 public class Problem1624 {
 
   public static void main(String[] args) {

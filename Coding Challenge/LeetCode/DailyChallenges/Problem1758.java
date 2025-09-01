@@ -1,5 +1,3 @@
-package LeetCode.DailyChallenges;
-
 public class Problem1758 {
     public static void main(String[] args) {
         int Result=minOperations("10010100");

@@ -1,8 +1,3 @@
-package LeetCode.DailyChallenges;
-
-/**
- * Problem1438
- */
 public class Problem1438 {
 
     public static void main(String[] args) {

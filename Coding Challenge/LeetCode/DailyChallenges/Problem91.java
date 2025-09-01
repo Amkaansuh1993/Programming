@@ -1,5 +1,3 @@
-package LeetCode.DailyChallenges;
-//TRY THIS 
 public class Problem91 {
     public static void main(String[] args) {
         int Result=numDecodings("226");

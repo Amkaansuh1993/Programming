@@ -1,8 +1,3 @@
-package LeetCode.DailyChallenges;
-//TRY THIS
-/**
- * Problem1897
- */
 public class Problem1897 {
     public static void main(String[] args) {
         String[] words={"abc","aabc","bc"};

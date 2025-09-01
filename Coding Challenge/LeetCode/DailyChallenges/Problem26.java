@@ -1,5 +1,3 @@
-package LeetCode.DailyChallenges;
-
 public class Problem26 {
     public static void main(String[] args) {
         int[] nums={1,1,2};

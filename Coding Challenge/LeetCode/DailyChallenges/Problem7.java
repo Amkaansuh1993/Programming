@@ -1,6 +1,3 @@
-package LeetCode.DailyChallenges;
-
-
 public class Problem7 {
     public static void main(String[] args) {
         int N = -2147483648;

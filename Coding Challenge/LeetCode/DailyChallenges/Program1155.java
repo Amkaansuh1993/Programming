@@ -1,10 +1,5 @@
-package LeetCode.DailyChallenges;
-//TRY THIS
 import java.util.Arrays;
 
-/**
- * Program1155
- */
 public class Program1155 {
 
     public static void main(String[] args) {

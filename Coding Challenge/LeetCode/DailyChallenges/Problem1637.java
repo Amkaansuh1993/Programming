@@ -1,5 +1,3 @@
-package LeetCode.DailyChallenges;
-
 import java.util.Arrays;
 
 /**

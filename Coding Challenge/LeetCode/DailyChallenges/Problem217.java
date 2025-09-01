@@ -1,12 +1,6 @@
-package LeetCode.DailyChallenges;
-
 import java.util.Arrays;
 
-/**
- * Problem217
- */
 public class Problem217 {
-
     public static void main(String[] args) {
         int[] nums={0,1,2,3,4};
         Boolean res=containsDuplicate(nums);

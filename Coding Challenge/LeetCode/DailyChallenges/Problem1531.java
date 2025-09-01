@@ -1,6 +1,3 @@
-package LeetCode.DailyChallenges;
-//TRY THIS
-
 class Problem1531{
 public static void main(String[] args) {
     String s="aabbaa";

@@ -1,10 +1,5 @@
-package LeetCode.DailyChallenges;
-
 import java.util.Arrays;
 
-/**
- * Problem286
- */
 public class Problem286 {
 
     public static void main(String[] args) {
