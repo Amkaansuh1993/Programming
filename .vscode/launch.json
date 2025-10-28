@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Javatest",
+            "request": "launch",
+            "mainClass": "Javatest",
+            "projectName": "Programming_d368e927"
+        },
+        {
+            "type": "java",
             "name": "Problem3025",
             "request": "launch",
             "mainClass": "Problem3025",

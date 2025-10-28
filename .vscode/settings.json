@@ -1,3 +1,4 @@
 {
-    "ansible.python.interpreterPath": "c:\\Users\\Admin\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe"
+    "ansible.python.interpreterPath": "c:\\Users\\Admin\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe",
+    "java.compile.nullAnalysis.mode": "automatic"
 }
